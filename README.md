@@ -11,3 +11,12 @@
 ### 二.两种布局容器
 #### container
 #### container-fluid
+
+#辅助类和响应式工具
+## 辅助类
+* 情景文本颜色 text-muted text-primary text-success text info
+* 情景背景色 bg-muted bg-success
+## 清除浮动
+> <div class="clearfix"><div>;
+## 响应式工具
+    
